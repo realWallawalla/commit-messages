@@ -1,0 +1,27 @@
+# Subject line (try to keep under 50 characters)
+#
+# Specify the type of commit
+# 	feat: The new feature you're adding to a particular application
+#	fix: A bug fix
+#	refactor: Refactoring a specific section of the codebase
+#	test: Everything related to testing
+#	docs: Everything related to documentation
+#	revert: revert a commit
+#
+# eg: feat/ARTAS-11044 add computation in fooBar.class.
+#	revert/ARTAS-11044 revert latest commit.
+#
+# Multi-line description of commit,
+# feel free to be detailed.
+#
+# Keywords
+#	BREAKING CHANGE - modification not longer compatable with older versions.
+#
+# Quickguide:
+# 1. Separate subject from body with a blank line
+# 2. Limit the subject line to 50 characters
+# 3. Capitalize the subject line
+# 4. Do not end the subject line with a period
+# 5. Use the imperative mood in the subject line (fix bug not fixed bug)
+# 6. Wrap the body at 72 characters
+# 7. Use the body to explain what and why vs. how
